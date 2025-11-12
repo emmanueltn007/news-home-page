@@ -200,6 +200,7 @@ button:hover {
 
 @media (max-width: 400px) {
     body {
+        background: red !important;
         padding: 1em 1em 4em 1em;
     }
 
